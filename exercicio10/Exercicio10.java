@@ -16,14 +16,14 @@ import java.util.Scanner;
 public class Exercicio10 {
     int [][]matrizA; 
     int [][]matrizB;
-    int size=2;
+    int size=10;
     int somatorioA=0;
     int somatorioB=0;
     int resul;
     Scanner input = new Scanner(System.in);
     public void AbrirAquivo(){
         try{
-            input= new Scanner(new File ("arquivo.txt"));
+            input= new Scanner(new File ("Matrizes10x10.txt"));
         }
         catch(FileNotFoundException fileNotFoundException){
             System.err.println("Erro ao abrir arquivo");
