@@ -13,5 +13,6 @@
   <ul>
     <li> A questao 07 é complementar da questao 6, logo as duas estão no arquivo "exercicio06"</li>
     <li> A questao 10 necessita do arquivo "Matrizes10x10" para executar</li>
+    <li> O exercicio desafio 01 necessita do arquivo "Desafio01.txt" para executar
   </ul>  
     <h4>Helen Cristina Araujo</h4>
